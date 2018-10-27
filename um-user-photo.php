@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       Ultimate Member - Add User Photo from Admin
- * Plugin URI:        none
+ * Plugin URI:        https://github.com/Neshable/um-user-photo
  * Description:       Allow admin to change user photo from user edit page and choose from media library.
  * Version:           1.0.0
  * Author:            Nesho Sabakov
@@ -18,10 +18,8 @@ if ( ! defined( 'WPINC' ) ) {
 
 /**
  * Currently plugin version.
- * Start at version 1.0.0 and use SemVer - https://semver.org
- * Rename this for your plugin and update it as you release new versions.
  */
-define( 'PLUGIN_NAME_VERSION', '1.0.0' );
+define( 'UM_ADD_PROFILE_PHOTO', '1.0.0' );
 
 
 /**
